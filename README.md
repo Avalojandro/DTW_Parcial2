@@ -1,12 +1,17 @@
 
-# 💻 Proyecto Laravel - Examen Parcial 2
+# Proyecto Laravel – Examen Parcial 2 💻
 
-Este proyecto corresponde al segundo examen parcial de la materia **Desarrollo y Técnicas de Aplicaciones Web**. El objetivo principal es trabajar con **almacenamiento local** y **web services**.
+Este repositorio corresponde al segundo examen parcial de la materia **Desarrollo y Técnicas de Aplicaciones Web**.
 
-## 📂 Contenido del proyecto
+### Objetivo
 
-1. 📄 Lectura de un archivo XML con datos ficticios y conversión a formato JSON.  
-2. 🔄 Consumo de un servicio SOAP que convierte números a palabras.
+Aplicar conocimientos sobre almacenamiento local y consumo de servicios web.
+
+### Funcionalidades
+
+- Lectura de un archivo **XML** con datos ficticios y conversión a **JSON**.
+- Consumo de un **servicio SOAP** para convertir números a palabras.
+
 
 ---
 
