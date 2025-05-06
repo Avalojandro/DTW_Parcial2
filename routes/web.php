@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Controles\NumConverterController;
 use App\Http\Controllers\InfoController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Frontend\Login\LoginController;
@@ -64,5 +65,8 @@ Route::get('/libros', [LibroController::class, 'mostrarLibros'])->name('libros.v
 Route::get('/info', [InfoController::class, 'index'])->name('info.vista_info');
 
 // Ruta para el conversor numérico
+
+Route::get('/num-converter', [NumConverterController::class, 'index'])->name('number.vista_number');
+
 Route::get('/number-converter', [NumberConversionController::class, 'index'])->name('number.converter');
 Route::post('/number-convert', [NumberConversionController::class, 'convert'])->name('number.convert');  

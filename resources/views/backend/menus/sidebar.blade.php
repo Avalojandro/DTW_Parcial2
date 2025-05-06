@@ -16,8 +16,8 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="{{ route('libros.vista_libros') }}" target="frameprincipal" class="nav-link">
-                        <i class="fas fa-book nav-icon" style="color: #fff;"></i>
+                    <a href="{{ route('number.vista_number') }}" target="frameprincipal" class="nav-link">
+                        <i class="fas fa-money-bill nav-icon" style="color: #fff;"></i>
                         <p>Conversor</p>
                     </a>
                 </li>
