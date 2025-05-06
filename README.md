@@ -1,7 +1,12 @@
 
-# 📚 Catálogo de Libros - Proyecto Laravel
+# 💻 Proyecto Laravel - Examen Parcial 2
 
-Este es un proyecto desarrollado en Laravel que muestra un catálogo de libros y otras funcionalidades a través de un panel de control.
+Este proyecto corresponde al segundo examen parcial de la materia **Desarrollo y Técnicas de Aplicaciones Web**. El objetivo principal es trabajar con **almacenamiento local** y **web services**.
+
+## 📂 Contenido del proyecto
+
+1. 📄 Lectura de un archivo XML con datos ficticios y conversión a formato JSON.  
+2. 🔄 Consumo de un servicio SOAP que convierte números a palabras.
 
 ---
 
