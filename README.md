@@ -23,7 +23,7 @@ Aplicar conocimientos sobre almacenamiento local y consumo de servicios web.
 | Irvin Elias Torres Merlos | (Sin carnet) |
 | Jose Garcia Rodriguez | (Sin carnet) |
 | José Arnoldo Landaverde Gómez | LG22018 |
-| José Mauricio Chavarría González | (Sin carnet) |
+| José Mauricio Chavarría González | CG92088 |
 
 ---
 
