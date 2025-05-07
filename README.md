@@ -20,8 +20,8 @@ Aplicar conocimientos sobre almacenamiento local y consumo de servicios web.
 | Nombre | Carnet |
 |--------|--------|
 | Alejandro Daniel Avalos Santamaria | AS19014 |
-| Irvin Elias Torres Merlos | (Sin carnet) |
-| Jose Garcia Rodriguez | (Sin carnet) |
+| Irvin Elias Torres Merlos | TM22012 |
+| José Emmanuel Garcia Rodriguez | GR22081 |
 | José Arnoldo Landaverde Gómez | LG22018 |
 | José Mauricio Chavarría González | CG92088 |
 

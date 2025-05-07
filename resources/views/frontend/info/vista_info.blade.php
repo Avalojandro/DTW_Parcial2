@@ -30,7 +30,7 @@
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Irvin Elias Torres Merlos</h5>
-                    <p class="card-text">Carnet: </p>
+                    <p class="card-text">Carnet: TM22012</p>
                 </div>
             </div>
         </div>
@@ -39,8 +39,8 @@
         <div class="col-md-4 mb-4">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Jose Garcia Rodriguez</h5>
-                    <p class="card-text">Carnet: </p>
+                    <h5 class="card-title">José Emmanuel Garcia Rodriguez</h5>
+                    <p class="card-text">Carnet: GR22081</p>
                 </div>
             </div>
         </div>
@@ -60,7 +60,7 @@
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">José Mauricio Chavarría González</h5>
-                    <p class="card-text">Carnet: </p>
+                    <p class="card-text">Carnet: CG92088</p>
                 </div>
             </div>
         </div>
